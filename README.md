@@ -1,2 +1,2 @@
 # ProjetoDataScienceUFRN
-# Projeto da disciplina DataSci
+# Projeto da disciplina DataScience
